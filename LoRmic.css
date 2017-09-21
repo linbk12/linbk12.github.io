@@ -91,7 +91,14 @@ footer{
 #map{
 	height: auto;
 }
-
+footer a{
+	color: black;
+}
+footer a:hover{
+	color: gray;
+	text-decoration:none;
+	
+}
 
 
 
